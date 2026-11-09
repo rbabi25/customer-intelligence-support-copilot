@@ -1,0 +1,29 @@
+{
+  "run_id": "5dac1056-21e6-45a3-a8ac-d4ffd023b417",
+  "scenario_id": "TASK7_MAX_ITERATIONS",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an AGENT. Use the available tools to complete the user's request. Follow the policies and never issue refunds for ineligible orders."
+    },
+    {
+      "role": "user",
+      "content": "Please process a refund for order ORD-100048."
+    }
+  ],
+  "tokens_used": 0,
+  "step_number": 0,
+  "tools_executed": [],
+  "steps": [],
+  "llm_calls": 0,
+  "iteration": 0,
+  "pending_tool_calls": [],
+  "pending_tool_index": 0,
+  "status": "FALLBACK_MAX_ITERATIONS",
+  "final_answer": "Maximum iterations reached. Please contact human support.",
+  "elapsed_seconds": 5.2996911108493805e-06,
+  "max_iterations": 0,
+  "token_limit": 6000,
+  "time_limit_seconds": 10.0,
+  "run_logged": true
+}

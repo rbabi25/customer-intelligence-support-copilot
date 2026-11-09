@@ -1,0 +1,13 @@
+Metric,Actual,Expected,Status
+Raw orders rows,13084,13084,PASS
+Exact duplicate order rows,119,119,PASS
+Pending order rows,656,656,PASS
+Distinct order_id,12309,12309,PASS
+Non-numeric order_amount,120,120,PASS
+Negative delivery_minutes,106,106,PASS
+Blank delivery_minutes,2541,2541,PASS
+Blank customer age,61,61,PASS
+Age outside 10-100,6,6,PASS
+Distinct raw city spellings,24,24,PASS
+Distinct non-blank raw gender spellings,10,10,PASS
+Blank gender,30,30,PASS

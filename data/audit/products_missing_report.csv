@@ -1,0 +1,5 @@
+column,data_type,missing_count,missing_percentage
+product_id,object,0,0.0
+product_name,object,0,0.0
+category,object,0,0.0
+price_inr,int64,0,0.0

@@ -1,0 +1,28 @@
+{
+  "run_id": "c90a22e3-e8fb-4038-aa33-d390958d5ba2",
+  "scenario_id": "ad_hoc",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an AGENT. Use the available tools to complete the user's request. Follow the policies and never issue refunds for ineligible orders."
+    },
+    {
+      "role": "user",
+      "content": "Please process a refund for order ORD-100048"
+    }
+  ],
+  "tokens_used": 0,
+  "step_number": 0,
+  "tools_executed": [],
+  "steps": [],
+  "llm_calls": 0,
+  "iteration": 0,
+  "pending_tool_calls": [],
+  "pending_tool_index": 0,
+  "status": "RUNNING",
+  "final_answer": "",
+  "elapsed_seconds": 0.0,
+  "max_iterations": 6,
+  "token_limit": 6000,
+  "time_limit_seconds": 0.0
+}

@@ -1,0 +1,29 @@
+{
+  "run_id": "1bba1928-38c3-4930-bf98-fe7f0cbf31d9",
+  "scenario_id": "TASK7_TIMEOUT",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an AGENT. Use the available tools to complete the user's request. Follow the policies and never issue refunds for ineligible orders."
+    },
+    {
+      "role": "user",
+      "content": "Please process a refund for order ORD-100048."
+    }
+  ],
+  "tokens_used": 0,
+  "step_number": 0,
+  "tools_executed": [],
+  "steps": [],
+  "llm_calls": 0,
+  "iteration": 0,
+  "pending_tool_calls": [],
+  "pending_tool_index": 0,
+  "status": "FALLBACK_TIMEOUT",
+  "final_answer": "Request timed out. Please contact human support.",
+  "elapsed_seconds": 9.700190275907516e-06,
+  "max_iterations": 6,
+  "token_limit": 6000,
+  "time_limit_seconds": 0.0,
+  "run_logged": true
+}

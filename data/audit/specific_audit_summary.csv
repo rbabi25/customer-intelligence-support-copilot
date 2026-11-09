@@ -1,0 +1,13 @@
+Audit Metric,Value
+Raw orders rows,13084
+Exact duplicate order rows,119
+Pending order rows,656
+Distinct order_id,12309
+Non-numeric order_amount,120
+Negative delivery_minutes,106
+Blank delivery_minutes,2541
+Blank customer age,61
+Age outside 10-100,6
+Distinct raw city spellings,24
+Distinct non-blank raw gender spellings,10
+Blank gender,30

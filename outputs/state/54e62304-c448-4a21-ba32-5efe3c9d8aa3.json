@@ -1,0 +1,51 @@
+{
+  "run_id": "54e62304-c448-4a21-ba32-5efe3c9d8aa3",
+  "scenario_id": "S3",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are an AGENT. Use the available tools to complete the user's request. Follow the policies and never issue refunds for ineligible orders."
+    },
+    {
+      "role": "user",
+      "content": "Order ORD-100145 arrived far too late, please refund me."
+    },
+    {
+      "role": "assistant",
+      "content": null,
+      "tool_calls": [
+        {
+          "id": "call_1",
+          "type": "function",
+          "function": {
+            "name": "get_order",
+            "arguments": "{\"order_id\": \"ORD-100145\"}"
+          }
+        }
+      ]
+    }
+  ],
+  "tokens_used": 52,
+  "step_number": 0,
+  "tools_executed": [],
+  "steps": [],
+  "llm_calls": 1,
+  "iteration": 1,
+  "pending_tool_calls": [
+    {
+      "id": "call_1",
+      "name": "get_order",
+      "arguments": {
+        "order_id": "ORD-100145"
+      }
+    }
+  ],
+  "pending_tool_index": 0,
+  "status": "RUNNING",
+  "final_answer": "",
+  "elapsed_seconds": 0.0,
+  "max_iterations": 6,
+  "token_limit": 6000,
+  "time_limit_seconds": 10.0,
+  "run_logged": false
+}

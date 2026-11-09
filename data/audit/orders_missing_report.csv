@@ -1,0 +1,10 @@
+column,data_type,missing_count,missing_percentage
+order_id,object,0,0.0
+customer_id,object,0,0.0
+product_id,object,0,0.0
+quantity,int64,0,0.0
+order_ts,object,0,0.0
+status,object,0,0.0
+discount_pct,int64,0,0.0
+order_amount,object,0,0.0
+delivery_minutes,object,0,0.0

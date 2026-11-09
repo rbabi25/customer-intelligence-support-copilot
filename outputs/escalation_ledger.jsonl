@@ -1,0 +1,9 @@
+{"timestamp": "2026-11-09T06:30:53.113195+00:00", "tool": "escalate_to_human", "order_id": "ORD-TEST-003", "reason": "Refund above INR 1000 requires human support lead approval."}
+{"timestamp": "2026-11-09T07:06:55.968928+00:00", "tool": "escalate_to_human", "order_id": "ORD-100145", "refund_inr": 1999.0, "reason": "Refund exceeds INR 1000 and requires human support lead approval."}
+{"timestamp": "2026-11-09T07:15:30.651483+00:00", "tool": "escalate_to_human", "order_id": "ORD-100145", "refund_inr": 1999.0, "reason": "Refund exceeds INR 1000 and requires human support lead approval."}
+{"timestamp": "2026-11-09T07:16:57.961574+00:00", "tool": "escalate_to_human", "order_id": "ORD-100145", "refund_inr": 1999.0, "reason": "Refund exceeds INR 1000 and requires human support lead approval."}
+{"timestamp": "2026-11-09T07:21:05.003799+00:00", "tool": "escalate_to_human", "order_id": "ORD-100145", "refund_inr": 1999.0, "reason": "Refund exceeds INR 1000 and requires human support lead approval."}
+{"timestamp": "2026-11-09T07:22:40.963356+00:00", "tool": "escalate_to_human", "order_id": "ORD-100145", "refund_inr": 1999.0, "reason": "Refund exceeds INR 1000 and requires human support lead approval."}
+{"timestamp": "2026-11-09T07:31:42.411249+00:00", "tool": "escalate_to_human", "order_id": "ORD-100145", "refund_inr": 1999.0, "reason": "Refund exceeds INR 1000 and requires human support lead approval."}
+{"timestamp": "2026-11-09T09:50:14.111265+00:00", "tool": "escalate_to_human", "order_id": "ORD-100145", "refund_inr": 1999.0, "reason": "Refund exceeds INR 1000 and requires human support lead approval."}
+{"timestamp": "2026-11-09T10:11:19.518110+00:00", "tool": "escalate_to_human", "order_id": "ORD-100145", "refund_inr": 1999.0, "reason": "Refund exceeds INR 1000 and requires human support lead approval."}

@@ -1,0 +1,6 @@
+column,data_type,missing_count,missing_percentage
+customer_id,object,0,0.0
+city,object,0,0.0
+signup_date,object,0,0.0
+age,object,0,0.0
+gender,object,0,0.0
